@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+#countdown {
+    font-size: 1.5em;
+    color: #ff6347;  /* Feel free to change color as you like */
+}
